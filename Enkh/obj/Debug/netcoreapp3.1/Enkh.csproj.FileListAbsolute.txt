@@ -1,0 +1,11 @@
+C:\Users\Enkh\source\repos\Enkh\Enkh\obj\Debug\netcoreapp3.1\Enkh.AssemblyInfoInputs.cache
+C:\Users\Enkh\source\repos\Enkh\Enkh\obj\Debug\netcoreapp3.1\Enkh.AssemblyInfo.cs
+C:\Users\Enkh\source\repos\Enkh\Enkh\obj\Debug\netcoreapp3.1\Enkh.csprojAssemblyReference.cache
+C:\Users\Enkh\source\repos\Enkh\Enkh\bin\Debug\netcoreapp3.1\Enkh.exe
+C:\Users\Enkh\source\repos\Enkh\Enkh\bin\Debug\netcoreapp3.1\Enkh.deps.json
+C:\Users\Enkh\source\repos\Enkh\Enkh\bin\Debug\netcoreapp3.1\Enkh.runtimeconfig.json
+C:\Users\Enkh\source\repos\Enkh\Enkh\bin\Debug\netcoreapp3.1\Enkh.runtimeconfig.dev.json
+C:\Users\Enkh\source\repos\Enkh\Enkh\bin\Debug\netcoreapp3.1\Enkh.dll
+C:\Users\Enkh\source\repos\Enkh\Enkh\bin\Debug\netcoreapp3.1\Enkh.pdb
+C:\Users\Enkh\source\repos\Enkh\Enkh\obj\Debug\netcoreapp3.1\Enkh.dll
+C:\Users\Enkh\source\repos\Enkh\Enkh\obj\Debug\netcoreapp3.1\Enkh.pdb
